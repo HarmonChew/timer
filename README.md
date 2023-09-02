@@ -1,0 +1,1 @@
+Simple C++ Application that takes in input from the user on how long they want the timer to be
